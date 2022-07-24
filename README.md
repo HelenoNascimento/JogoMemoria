@@ -1,7 +1,9 @@
 <h1>🕹️ Jogo memoria </h1><br>
 <h2> 🎮 Jogo de memoria com o tema de One piece </h2><br><br>
 
-![memoria](https://user-images.githubusercontent.com/20055120/180656011-f8f99feb-7e5c-4a0a-98b8-c80aa70ee43e.gif)
+
+
+![memoriaa](https://user-images.githubusercontent.com/20055120/180656249-85f0db77-78ee-41b7-addf-c827ffcafe1e.gif)
 
 
 
