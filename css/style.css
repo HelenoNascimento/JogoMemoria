@@ -55,17 +55,23 @@ header{
 .front{
 
 transform: rotateY(180deg);
+transform: scale(.9);
 }
 .back{
     background-image: url('../images/card-luffy.jpg');
     backface-visibility: hidden;
+    transform: scale(.9);
 }
 .reveal-card{
     transform: rotateY(180deg);
+    
 }
 .disabled-card{
     filter: saturate(0);
     opacity: 0.8;
+}
+.back:hover{
+    transform: scale(1);
 }
 
 
@@ -100,7 +106,11 @@ transform: rotateY(180deg);
 .face:hover::after{
     top: 0;
     height: 100%;
+    
 }
+
+
+
 
 @media(max-width:1050px){
     .grid{
@@ -109,6 +119,8 @@ transform: rotateY(180deg);
         width: 100%; 
         margin: 0 auto;
     }
+
+    
 }
 
 @media(max-width:700px){
